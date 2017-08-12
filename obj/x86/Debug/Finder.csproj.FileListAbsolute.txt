@@ -1,0 +1,11 @@
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\bin\x86\Debug\Finder.exe
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\bin\x86\Debug\Finder.pdb
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\Finder.csproj.ResolveComReference.cache
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\Finder.Form1.resources
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\Finder.Properties.Resources.resources
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\Finder.csproj.GenerateResource.Cache
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\Finder.exe
+C:\Users\AshuSharma\Documents\Visual Studio 2008\Finder\Finder\Finder\obj\x86\Debug\Finder.pdb
